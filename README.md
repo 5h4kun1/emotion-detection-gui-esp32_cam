@@ -91,15 +91,3 @@ pyserial
 
 ---
 
-## 📁 .gitignore
-
-```gitignore
-__pycache__/
-*.pyc
-*.DS_Store
-*.log
-emojis/*.tmp
-```
-
----
-
